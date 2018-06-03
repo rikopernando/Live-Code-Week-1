@@ -14,7 +14,3 @@ var drawThreeColsBox = (angka) => {
 drawThreeColsBox(5)
 drawThreeColsBox(3)
 drawThreeColsBox(1)
-
-let arr = ['1','2']
-
-console.log(arr.length)
